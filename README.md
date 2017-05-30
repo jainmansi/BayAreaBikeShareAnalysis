@@ -28,7 +28,7 @@ Note: All the charts are plotted using Tableau
 
 Using this analysis, I aimed at finding the spread of rides over the hours of the day.
 
-![Binning_Rides_Distribution_1](results/Analysis2_1.png)
+![Binning_Rides_Distribution_1](results/Analysis2-1.png)
 
 ## Analysis 2 -- Subscriber vs. Customer during each year
 
