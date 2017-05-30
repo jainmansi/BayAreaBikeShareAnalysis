@@ -22,7 +22,13 @@ Click [here](http://www.bayareabikeshare.com/open-data/) to go to the dataset.
 
 # Analysis results
 
+Note: All the charts are plotted using Tableau
+
 ## Analysis 1 -- Binning pattern to determine distribution of rides in a day
+
+Using this analysis, I aimed at finding the spread of rides over the hours of the day.
+
+![Binning_Rides_Distribution_1](results/Analysis2_1.png)
 
 ## Analysis 2 -- Subscriber vs. Customer during each year
 
